@@ -16,3 +16,6 @@
 [submodule "PaddleNLP/PALM"]
 	path = PaddleNLP/PALM
 	url = https://github.com/PaddlePaddle/PALM
+[submodule "PaddleNLP/Dialogue"]
+	path = PaddleNLP/Dialogue
+	url = https://github.com/baidu/Dialogue.git
